@@ -1,5 +1,7 @@
 # stable-diffusion-map
 TOP10 stable-diffusion Module library frame composition
+![stable-diffusion_scripts_txt2img](https://user-images.githubusercontent.com/11691791/200961057-0381216b-e244-494e-8600-a44f669f2207.png)
+
 #
 TOP10 & more SD Module library frame composition,indlude
 design by metafont.vip
