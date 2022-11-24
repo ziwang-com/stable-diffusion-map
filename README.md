@@ -12,6 +12,7 @@ TOP10 stable-diffusion Module library frame composition MAP:
 
     现笔者决定以开源方式，把将将绘制成的SD2.0的架构图，免费发布在：
 zw的GitHub项目网站 :https://github.com/ziwang-com?tab=projects；
+
 m-f.vip网站 :https://m-f.vip
 MF元字库的官方Q群中 （群号：655402626）。
 
